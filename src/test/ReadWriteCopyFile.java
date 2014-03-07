@@ -24,7 +24,7 @@ public class ReadWriteCopyFile {
 
 	private static String fileName = "D:\\coyfile\\filename.txt";
 
-	private static String filepath = "D:\\µº»Î\\";
+	private static String filepath = "D:\\Tomcat7\\webapps\\shacdp";
 
 	static List<String> erroFiles = new ArrayList<String>();
 	static List<String> successFiles = new ArrayList<String>();

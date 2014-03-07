@@ -7,5 +7,17 @@
 	<classpathentry kind="lib" path="lib/jakarta-oro.jar"/>
 	<classpathentry kind="lib" path="lib/activation.jar"/>
 	<classpathentry kind="lib" path="lib/mail.jar"/>
+	<classpathentry kind="lib" path="/shacdp/WebRoot/WEB-INF/lib/axis.jar"/>
+	<classpathentry kind="lib" path="/shacdp/WebRoot/WEB-INF/lib/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="/shacdp/WebRoot/WEB-INF/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/shacdp/WebRoot/WEB-INF/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/shacdp/WebRoot/WEB-INF/lib/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="/shacdp/WebRoot/WEB-INF/lib/wsdl4j-1.6.2.jar"/>
+	<classpathentry kind="lib" path="/shacdp/tools/json/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="/shacdp/tools/json/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="/shacdp/WebRoot/WEB-INF/lib/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="/shacdp/WebRoot/WEB-INF/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/shacdp/WebRoot/WEB-INF/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/BaiDuTongBu/workspace/JavaUtil/lib/jdom.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
